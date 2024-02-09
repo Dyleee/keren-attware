@@ -1,0 +1,14 @@
+cachetools==5.3.1
+Flask==2.1.2
+Flask_Bcrypt==1.0.1
+Flask_Caching==2.0.2
+Flask_Classful==0.14.2
+Flask_Cors==4.0.0
+Flask_JWT_Extended==4.4.0
+Flask_Mail==0.9.1
+flask_mongoengine==1.0.0
+mongoengine==0.24.1
+pymongo==4.1.1
+python-dotenv==1.0.0
+Requests==2.31.0
+ujson==5.3.0
